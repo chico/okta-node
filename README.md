@@ -1,6 +1,5 @@
 # OKTA-NODE DEPRECATED. PLEASE USE [oktajs](https://github.com/Snowulf/oktajs)
 
-
 # okta-node
 
 A small NodeJS framework for working with the [Okta](http://www.okta.com/) API
